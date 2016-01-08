@@ -1,0 +1,2 @@
+# angularQuiz
+Sometimes you need to review your skills in order to hold on to them. However, you may not have time for a suite of tutorials, or even to rediscover where you may have learned something in the first place. This angular quiz is different from most quizzes as only the correct answer is provided. You know whether or not you mentally answered correctly. There is no need to try and fool you with wrong answers. That makes thing much more efficient and effective as you are spending valuable time on the correct answer only.
